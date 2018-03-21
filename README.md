@@ -3,8 +3,8 @@ To classify and predict whether or not the borrower paid back their loan in full
 
 
 **Project Description:**
-This project is about predicting whether an individual will pay their loan balances in full or not. The pediction is done using some machine learning models specifically logistic regression, decision tree, and random forest using Python and Scikit-learn. The dataset is the 2007-2010 Lending Club data which can be found [here](https://www.lendingclub.com/info/download-data.action). It contains 9578 observations and 14 variables. 
-u
+This project is about predicting whether an individual will pay their loan balances in full or not. The pediction is done using some machine learning models specifically decision tree, and random forest using Python and Scikit-learn. The dataset is the 2007-2010 Lending Club data which can be found [here](https://www.lendingclub.com/info/download-data.action). It contains 9578 observations and 14 variables. 
+
 **Data Dictionary:**
 * credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
 * purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
